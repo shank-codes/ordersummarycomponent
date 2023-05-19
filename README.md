@@ -13,8 +13,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Overview
 ### Links
 
-- Solution URL: [https://github.com/shank-codes/FM-OrderSummaryComponent.git]
-- Live Site URL: [https://shank-codes.github.io/FM-OrderSummaryComponent]
+- Solution URL: [https://github.com/shank-codes/ordersummarycomponent.git]
+- Live Site URL: [https://shank-codes.github.io/ordersummarycomponent]
 
 ## My process
 
@@ -33,5 +33,5 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Author
 
-- Website - [Shashank M Hiremath](https://shank-codes.github.io/FM-OrderSummaryComponent)
+- Website - [Shashank M Hiremath](https://shank-codes.github.io/ordersummarycomponent)
 - Frontend Mentor - [@shank-codes](https://www.frontendmentor.io/profile/shank-codes)
