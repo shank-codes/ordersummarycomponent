@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="card">
-      <img className="heroImage" src="/images/illustration-hero.svg" alt="illustration-hero" />
+      <img className="heroImage" src={process.env.PUBLIC_URL+"/images/illustration-hero.svg"} alt="illustration-hero" />
       <div className="content">
       <p className="title">Order Summary</p>
       <p className="description">
@@ -11,7 +11,7 @@ function App() {
         device anywhere you like!
       </p>
       <div className="priceSection">
-        <img src="/images/icon-music.svg" alt="music-icon" />
+        <img src={process.env.PUBLIC_URL+"/images/icon-music.svg"} alt="music-icon" />
         <div className="price">
           <span className="priceTitle">Annual Plan</span>
           <span className="subscription">$59.99/year</span>
